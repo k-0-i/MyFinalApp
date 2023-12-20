@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_accounts"
+        android:icon="@drawable/menu_absorbed"
+        android:title="悦读"/>
+
+    <item
+        android:id="@+id/menu_task"
+        android:icon="@drawable/menu_task"
+        android:title="随记" />
+</menu>
